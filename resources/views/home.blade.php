@@ -147,7 +147,7 @@ style="background-image: url('images/hero_1.jpg');">
 
   <ul class="job-listings mb-5">
     <li class="job-listing d-block d-sm-flex pb-3 pb-sm-0 align-items-center">
-      <a href="job-single.html"></a>
+      <a href="jobsDetails"></a>
       <div class="job-listing-logo">
         <img src="{{ url('assets/images/job_logo_1.jpg') }}" alt="Free Website Template by Free-Template.co" class="img-fluid">
       </div>
@@ -167,7 +167,7 @@ style="background-image: url('images/hero_1.jpg');">
 
     </li>
     <li class="job-listing d-block d-sm-flex pb-3 pb-sm-0 align-items-center">
-      <a href="job-single.html"></a>
+      <a href="jobsDetails"></a>
       <div class="job-listing-logo">
         <img src="{{ url('assets/images/job_logo_2.jpg') }}" alt="Free Website Template by Free-Template.co" class="img-fluid">
       </div>
@@ -217,7 +217,7 @@ style="background-image: url('images/hero_1.jpg');">
         impedit.</p>
     </div>
     <div class="col-md-3 ml-auto">
-      <a href="#" class="btn btn-warning btn-block btn-lg">Sign Up</a>
+      <a href="login" class="btn btn-warning btn-block btn-lg">Sign Up</a>
     </div>
   </div>
 </div>
